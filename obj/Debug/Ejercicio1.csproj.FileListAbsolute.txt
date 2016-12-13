@@ -1,0 +1,16 @@
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.MainForm.resources
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Maximizado.resources
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.MainForm.resources
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Maximizado.resources
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Trorik\Google Drive\Facultad\Taller .Net\workspace\P9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

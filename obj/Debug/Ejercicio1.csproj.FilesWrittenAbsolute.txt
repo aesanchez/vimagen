@@ -1,0 +1,9 @@
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/Ejercicio1.MainForm.resources
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/Ejercicio1.Maximizado.resources
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/bin/Debug/Ejercicio1.exe.mdb
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/bin/Debug/Ejercicio1.pdb
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/bin/Debug/Ejercicio1.exe
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/Ejercicio1.exe
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/Ejercicio1.exe.mdb
+/home/trorik23/Code/workspaceC#/P9/Ejercicio1/Ejercicio1/obj/Debug/Ejercicio1.pdb
